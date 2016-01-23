@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title: Site Title
+title: Techimpossible
 locale: en_US
-description: Describe your website here.
+description: Practice Makes Progress.
 logo: site-logo.png
 search: true
 url: http://localhost:4000
@@ -47,7 +47,7 @@ titlecase: true
 
 # Site owner
 owner:
-  name: Your Name
+  name: Peter Skaronis
   avatar: bio-photo.jpg
   email: you@email.com
   disqus-shortname:

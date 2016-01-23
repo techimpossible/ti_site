@@ -1,16 +1,22 @@
 # Site navigation links
 
-- title: About
-  url: /about/
+- title: Home
+  url: /
 
 - title: Articles
   url: /articles/
+  
+  - title: Resources
+  url: /Resources/
 
-- title: Blog
-  url: /blog/
+- title: Cyber Security
+  url: /Cyber Security/
 
-- title: Theme Setup
-  url: /theme-setup/
+- title: About
+  url: /about/
+  
+  - title: Ask Me Anything
+  url: /Ask Me Anything/
 
 - title: Search
   url: /search/
