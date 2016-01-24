@@ -6,7 +6,7 @@ type: post
 published: true
 status: publish
 categories:
-- Cyber Security
+- cyber
 - IT Security
 - blog
 tags:

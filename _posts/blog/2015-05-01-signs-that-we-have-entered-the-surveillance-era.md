@@ -4,7 +4,7 @@ title: 10 Signs that we have entered the surveillance Era
 excerpt: "This is a list of evidence that we have entered a new era."
 
 categories:
-- papers
+- cyber
 - blog
 tags:
 - 44con

@@ -6,7 +6,7 @@ type: post
 published: true
 
 categories:
-- IT
+- cyber
 - blog
 tags:
 - MSSPs

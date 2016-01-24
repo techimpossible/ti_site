@@ -3,7 +3,7 @@ layout: post
 title: "Cybersecurity 101: 10 Steps To Cyber Security And Beyond For Today's World"
 excerpt: "Walking around The National Museum of Computing at Bletchley Park the other
   day..."
-categories: [blog, IT Security]
+categories: [blog, cyber]
 tags: [sample-post, readability]
 modified: 2015-09-17
 image:
@@ -13,7 +13,7 @@ comments: true
 share: true
 ---
  
-<p><img src="{{ site.baseurl }}/images/img.jpg" alt="" /></p>
+<p><img src="{{ site.baseurl }}/images/NMOC.jpg" alt="" /></p>
 <p>Walking around The National Museum of Computing at Bletchley Park the other day as part of the <a href="http://www.mkbrf.org/">MKBRF</a> (Milton Keynes Business Resilience Forum), I realised how complacent we have become with the way our life is, that we won't bother with anything that looks like is going to be too much.</p>
 <p>Looking at the <a href="https://en.wikipedia.org/wiki/Colossus_computer">Colossus</a>,&nbsp;while the tour guide explained what went on during those times and the thinking, logic and processes required to decipher messages, I was stunned. I was left thinking how much less involved we are these days and even then, we give up because it looks strange, new or confusing.</p>
 <blockquote><p>We have to learn from our past, to be able to understand the future.</p></blockquote>
@@ -32,7 +32,7 @@ share: true
 <h2>Cyber Security Essentials</h2>
 <p>Most of the breaches that have happened and will continue to happen, as not so much down to technology but human intervention. We lead ourselves to believe that the solution is complicated, where in essence,&nbsp;it is awareness and practical experience, whether that is us as Security Professionals or the company's workforce.</p>
 <p>The <a href="https://www.gov.uk/government/publications/cyber-risk-management-a-board-level-responsibility/10-steps-summary"><strong>10 Steps To Cyber Security</strong></a>&nbsp;that was put together by CESG, CPNI, Cabinet Office and DBIS covers the absolute essentials that you should be aware while working towards establishing controls and mitigation measures.</p>
-<p>      <img src="{{ site.baseurl }}/assets/img.png" alt="" /></p>
+<p>      <img src="{{ site.baseurl }}/images/10-steps.png" alt="" /></p>
 <p>10 Steps To Cyber Security</p>
 <h2> </h2>
 <h2>Security Controls For The Corporate World</h2>

@@ -2,7 +2,7 @@
 layout: post
 title: "Digital Thoughts: Smartphones, Habits & Tracking"
 excerpt: "Our focus is being manipulated. It is not surprising but rather expected."
-categories: [IT, Thoughts, blog]
+categories: [cyber, Thoughts, blog]
 tags: [psychology, Social Media]
 modified: 2015-11-05
 

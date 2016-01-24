@@ -5,7 +5,7 @@ excerpt: There is nothing more exciting than a TV Show that uses actual Security
   as these are used today in real life.
 
 categories:
-- Cyber Security
+- cyber
 - blog
 tags:
 - Encryption
