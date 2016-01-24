@@ -2,6 +2,9 @@
 layout: page
 title: Blog
 excerpt: "An archive of blog posts sorted by date."
+image:
+   feature: header.jpg
+
 search_omit: true
 ---
 
