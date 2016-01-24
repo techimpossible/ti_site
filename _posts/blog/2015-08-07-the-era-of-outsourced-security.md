@@ -20,7 +20,7 @@ excerpt: As I've been looking into various Security products, it has become more
 comments: true
 share: true
 ---
-<p><img src="{{ site.baseurl }}/assets/Cyber-Security.jpg" alt="" /></p>
+<p><img src="{{ site.baseurl }}/images/cyber.jpg" alt="" /></p>
 <div class="article-content">
 <div class="article-body" dir="ltr">
 <p>As I've been looking into various Security products, it has become more evident to me that the world is nothing like it was ten years ago and even a year ago.</p>
