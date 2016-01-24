@@ -1,28 +1,18 @@
 ---
 layout: post
 title: 2015 - The Year of IoE Vulnerabillities
-date: 2015-03-06 22:04:51.000000000 +00:00
-type: post
-published: true
-status: publish
+excerpt: "With the emergence of more and more Linux powered devices, whether these
+  are Android smart phones.."
 categories:
 - IT
+- blog
 tags:
 - IOE
 - security
-meta:
-  _thumbnail_id: '56'
-author:
-  login: itsec
-  email: skaronisp@p3plcpnl0845.prod.phx3.secureserver.net
-  display_name: admin
-  first_name: ''
-  last_name: ''
-excerpt: IoEWith the emergence of more and more Linux powered devices, whether these
-  are Android smart phones, Smart TVs, consumer level NAS drives, there has been a
-  number of vulnerabilities that have surfaced in the last quarter of 2014 and even
-  more so in 2015.Some of these exploits, have been there for over 20 years and this
-  begs the question, why has it been revealed now.
+
+comments: true
+share: true
+
 ---
 <p><img src="{{ site.baseurl }}/assets/30dbff9.jpg" alt="" /></p>
 <h2>IoE</h2>

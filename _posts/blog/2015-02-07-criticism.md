@@ -7,14 +7,9 @@ published: true
 status: publish
 categories:
 - Quotes
+- blog
 tags: []
-meta: {}
-author:
-  login: itsec
-  email: skaronisp@p3plcpnl0845.prod.phx3.secureserver.net
-  display_name: admin
-  first_name: ''
-  last_name: ''
+
 ---
 <div class="quoteText">
 <blockquote>

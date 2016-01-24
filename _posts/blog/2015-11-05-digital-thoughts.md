@@ -1,29 +1,16 @@
 ---
 layout: post
-title: 'Digital Thoughts: Smartphones, Habits & Tracking'
-date: 2015-11-05 22:07:54.000000000 +00:00
-type: post
-published: true
-status: publish
-categories:
-- IT
-- Thoughts
-tags:
-- psychology
-- Social Media
-meta:
-  _thumbnail_id: '45'
-author:
-  login: itsec
-  email: skaronisp@p3plcpnl0845.prod.phx3.secureserver.net
-  display_name: admin
-  first_name: ''
-  last_name: ''
-excerpt: Our focus is being manipulated. It is not surprising but rather expected. Everyone
-  has their eyes glued to a touchscreen. There is hope and promise in those 5 inches
-  and access to a world way better than the one around us.
+title: "Digital Thoughts: Smartphones, Habits & Tracking"
+excerpt: "Our focus is being manipulated. It is not surprising but rather expected."
+categories: [IT, Thoughts, blog]
+tags: [psychology, Social Media]
+modified: 2015-11-05
+
+comments: true
+share: true
 ---
-<p><img src="{{ site.baseurl }}/assets/img.png" alt="" /></p>
+
+<p><img src="{{ site.baseurl }}/images/digital.jpg" alt="" /></p>
 <p>&nbsp;
 <p>Our focus is being manipulated. It is not surprising but rather expected.</p>
 <p>&nbsp;Everyone has their eyes glued to a touchscreen. There is hope and promise in those 5 inches and access to a world way better than the one around us.</p>
@@ -62,7 +49,7 @@ excerpt: Our focus is being manipulated. It is not surprising but rather expecte
 <h2> </h2>
 <h2>Tracking</h2>
 <p> </p>
-<p>      <img src="{{ site.baseurl }}/assets/img.png" alt="" /></p>
+<p>      <img src="{{ site.baseurl }}/iamges/img.png" alt="" /></p>
 <p>What is the true cost of these free services?</p>
 <p>When you download &nbsp;Facebook or Twitter and start posting information, everything is geo-tagged. You location is being embedded into every message you post online and your photos give out even more details.</p>
 <p>This is useful information for marketers but also for hackers. Even when you are not doing anything you smartphone is being constantly interrogated.</p>
@@ -72,19 +59,19 @@ excerpt: Our focus is being manipulated. It is not surprising but rather expecte
 <p>There are currently 2 projects that map twitter location, <a href="http://geosocialfootprint.com/#">GeoSocial Footprint</a> and <a href="http://app.teachingprivacy.com/#">Teaching Privacy</a>.</p>
 <p>Just for illustration purposes, we are going to look at Steve Wozniak.</p>
 <p> </p>
-<p>       [caption id="" align="alignnone" width="2762.0"]<img src="{{ site.baseurl }}/assets/img.png" alt="Geo Footprint - Steve Wozniak" /> Geo Footprint - Steve Wozniak[/caption] </p>
+<p>       [caption id="" align="alignnone" width="2762.0"]<img src="{{ site.baseurl }}/iamges/img.png" alt="Geo Footprint - Steve Wozniak" /> Geo Footprint - Steve Wozniak[/caption] </p>
 <p>The search on the Geo Footprint adds another layer of information. Possible locations.</p>
-<p>      <img src="{{ site.baseurl }}/assets/geo-footprint.png" alt="" /></p>
+<p>      <img src="{{ site.baseurl }}/iamges/geo-footprint.png" alt="" /></p>
 <p> </p>
 <p>It is very easy to map out home, work and school locations.</p>
 <p>If you have an iPhone drill down to:</p>
 <p><strong>Settings &gt; Privacy &gt; Location Services &gt; System Services &gt; Frequent Locations &gt; History.</strong></p>
 <p>You will find out exactly where you have been and the exact duration. It is an eye opener.</p>
 <p> </p>
-<p>       [caption id="" align="alignnone" width="2000.0"]<img src="{{ site.baseurl }}/assets/img.jpg" alt="Settings > Privacy > Location Services > System Services > Frequent Locations > History" /> Settings > Privacy > Location Services > System Services > Frequent Locations > History[/caption] </p>
+<p>       [caption id="" align="alignnone" width="2000.0"]<img src="{{ site.baseurl }}/images/img.jpg" alt="Settings > Privacy > Location Services > System Services > Frequent Locations > History" /> Settings > Privacy > Location Services > System Services > Frequent Locations > History[/caption] </p>
 <p> </p>
 <p> </p>
-<p>      <img src="{{ site.baseurl }}/assets/freedome.PNG" alt="" /></p>
+<p>      <img src="{{ site.baseurl }}/images/freedome.PNG" alt="" /></p>
 <p>To that effect, I recently started using Freedome VPN from F-Secure on my iDevices. My iPhone alone had over 600 blocked tracking attempts in a very short amount of time.</p>
 <p> </p>
 <p> </p>
@@ -94,7 +81,7 @@ excerpt: Our focus is being manipulated. It is not surprising but rather expecte
 <p>I have been able to see what big companies see and that is a lot of unseemingly random information. With the use of algorithms and big data manipulation though, you can learn who is using your app, what is their financial status and many more details.</p>
 <p>Especially on Facebook, which could well be a country on its own, you can create advertising campaigns targeting exactly the people you want.</p>
 <p>More interestingly you can target the people that have previously spend money buying stuff advertised on Facebook and spend a certain amount.</p>
-<p>       [caption id="" align="alignnone" width="1416.0"]<img src="{{ site.baseurl }}/assets/img.png" alt="Facebook Ads" /> Facebook Ads[/caption] </p>
+<p>       [caption id="" align="alignnone" width="1416.0"]<img src="{{ site.baseurl }}/iamges/img.png" alt="Facebook Ads" /> Facebook Ads[/caption] </p>
 <p> </p>
 <p>This is powerful for marketing, but it just goes to show that everything you do online does not go unrecorded.</p>
 <p> </p>

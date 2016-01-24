@@ -3,30 +3,27 @@ layout: post
 title: The Psychology Behind Passwords
 date: 2015-08-29 03:07:23.000000000 +01:00
 type: post
-published: true
-status: publish
+
 categories:
 - IT
+- blog
 tags:
 - 2-factor
 - password
 - psychology
-meta:
-  _thumbnail_id: '30'
-author:
-  login: itsec
-  email: skaronisp@p3plcpnl0845.prod.phx3.secureserver.net
-  display_name: admin
-  first_name: ''
-  last_name: ''
-excerpt: 'It is becoming more and more evident that psychological triggers amount
+
+excerpt: It is becoming more and more evident that psychological triggers amount
   for the highest percentage of Cybersecurity risks than actual technical exploits.
-  A paper on Individual Differences in Cyber Security Behaviors: An Examination of
-  Who Is Sharing Passwords explains the psychology behind selecting a password and
-  sharing passwords.That just goes to show that passwords are inundated just like
-  Antivirus software has been for a long time now.'
+
+image:
+   feature: Password-security.jpg
+
+modified: 2015-11-05
+
+comments: true
+share: true
 ---
-<p><img src="{{ site.baseurl }}/assets/Password-security.jpg" alt="" /></p>
+
 <p>It is becoming more and more evident that psychological triggers amount for the highest percentage of Cybersecurity risks than actual technical exploits.<br />
 A paper on <em><a rel="attachment wp-att-298" href="http://static1.squarespace.com/static/562005d9e4b053a5136bfb77/56200709e4b065725940b633/56200715e4b065725940b867/1444939541799/?format=original">Individual Differences in Cyber Security Behaviors: An Examination of Who Is Sharing Passwords</a> explains the psychology behind selecting a password and sharing passwords.</em></p>
 <p>That just goes to show that passwords are inundated just like Antivirus software has been for a long time now.</p>

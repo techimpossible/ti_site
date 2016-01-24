@@ -8,26 +8,22 @@ status: publish
 categories:
 - Cyber Security
 - IT Security
+- blog
 tags:
 - CIA
 - IoT
 - Safety
-meta:
-  _thumbnail_id: '66'
-author:
-  login: itsec
-  email: skaronisp@p3plcpnl0845.prod.phx3.secureserver.net
-  display_name: admin
-  first_name: ''
-  last_name: ''
+
 excerpt: In the Internet of Things (IoT) era that we have entered, it is becoming
-  apparent to me that nothing follows a linear progression anymore. The abstract models
-  created by start ups, which can and often do disrupt the industry, promote new ways
-  of engaging in business that are not common sense.To illustrate this, I’ve made
-  a list of examples that have turned industries on their head and that don’t follow
-  any trends from the past.
+  apparent to me that nothing follows a linear progression anymore.
+image:
+  feature: safety.jpg
+  credit: ShutterStock
+  creditlink: http://www.shutterstock.com/
+comments: true
+share: true
 ---
-<p><img src="{{ site.baseurl }}/assets/img.jpg" alt="" /></p>
+
 <p>In the <a href="http://www.tripwire.com/state-of-security/risk-based-security-for-executives/connecting-security-to-the-business/the-iot-convergence-how-it-and-ot-can-work-together-to-secure-the-internet-of-things/">Internet of Things</a>&nbsp;(IoT) era that we have entered, it is becoming apparent to me that nothing follows a linear progression anymore. The abstract models <a href="http://www.tripwire.com/state-of-security/featured/the-startup-problem/">created by start ups</a>, which can and often do disrupt the industry, promote new ways of engaging in business that are not common sense.</p>
 <p>To illustrate this, I’ve made a list of examples that have turned industries on their head and that don’t follow any trends from the past.</p>
 <p><strong>Uber</strong> — Largest taxi company that owns no taxis<br />&nbsp;<strong>Airbnb</strong> — Largest accommodation provider that owns no real estate<br />&nbsp;<strong>Skype</strong> — Largest phone company that owns no telco infrastructure<br />&nbsp;<strong>Facebook</strong> — Largest media owner that creates no content<br />&nbsp;<strong>Alibaba</strong> — World’s most valuable retailer that has no inventory<br />&nbsp;<strong>Netflix</strong> — World’s largest movie house that owns no cinemas<br />&nbsp;<strong>Apple/Google</strong> — Largest software vendors that don’t write their own apps<br />&nbsp;<strong>SocietyOne</strong> — Fastest growing bank that has no actual money</p>

@@ -4,27 +4,21 @@ title: The Era Of Outsourced Security
 date: 2015-08-07 01:19:40.000000000 +01:00
 type: post
 published: true
-status: publish
+
 categories:
 - IT
+- blog
 tags:
 - MSSPs
 - SIEM
 - SOC
 - Spear Phishing
-meta:
-  _thumbnail_id: '23'
-author:
-  login: itsec
-  email: skaronisp@p3plcpnl0845.prod.phx3.secureserver.net
-  display_name: admin
-  first_name: ''
-  last_name: ''
+
 excerpt: As I've been looking into various Security products, it has become more evident
-  to me that the world is nothing like it was ten years ago and even a year ago.Vendors
-  are struggling to keep up with threats and vulnerabilities, gluing disparate products
-  together and slapping new stickers on like SIEM.It doesn't take long to understand
-  that no single product can deliver.
+  to me that the world is nothing like it was ten years ago and even a year ago.
+  
+comments: true
+share: true
 ---
 <p><img src="{{ site.baseurl }}/assets/Cyber-Security.jpg" alt="" /></p>
 <div class="article-content">

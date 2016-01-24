@@ -7,13 +7,8 @@ published: true
 status: publish
 categories:
 - Thoughts
+- blog
 tags: []
-meta: {}
-author:
-  login: itsec
-  email: skaronisp@p3plcpnl0845.prod.phx3.secureserver.net
-  display_name: admin
-  first_name: ''
-  last_name: ''
+
 ---
 <p>Finding a distraction free space can be quite challenging. Taking away form without compromising functionality is a fine balance hard to find.</p>

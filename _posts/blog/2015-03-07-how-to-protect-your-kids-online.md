@@ -1,30 +1,19 @@
 ---
 layout: post
 title: How to protect your kids online
-date: 2015-03-07 02:39:31.000000000 +00:00
-type: post
-published: true
-status: publish
+excerpt: Nowadays everything is online.
 categories:
 - IT
+- blog
 tags:
 - identity
 - kids
 - parents
 - security
-meta:
-  _thumbnail_id: '51'
-author:
-  login: itsec
-  email: skaronisp@p3plcpnl0845.prod.phx3.secureserver.net
-  display_name: admin
-  first_name: ''
-  last_name: ''
-excerpt: The Information AgeNowadays everything is online. We are required to learn
-  new systems and processes, in order to pay our taxes, find a job, socialise and
-  entertain ourselves.People that have been around more than 20-30 years have been
-  brought up in a world without the internet. Most things were done by pen and paper
-  and you would also have to show up to places to do everyday activities.
+
+comments: true
+share: true
+
 ---
 <p><img src="{{ site.baseurl }}/assets/own-your-space.png" alt="" /></p>
 <h2>The Information Age</h2>

@@ -1,35 +1,19 @@
 ---
 layout: post
-title: 'Cybersecurity 101: 10 Steps To Cyber Security And Beyond For Today''s World'
-date: 2015-12-09 21:27:08.000000000 +00:00
-type: post
-published: true
-status: publish
-categories:
-- IT Security
-tags:
-- Cabinet Office
-- Colossus
-- CPNI
-- TNMOC
-meta:
-  _thumbnail_id: '63'
-author:
-  login: itsec
-  email: skaronisp@p3plcpnl0845.prod.phx3.secureserver.net
-  display_name: admin
-  first_name: ''
-  last_name: ''
-excerpt: Walking around The National Museum of Computing at Bletchley Park the other
-  day as part of the MKBRF (Milton Keynes Business Resilience Forum), I realised how
-  complacent we have become with the way our life is, that we won't bother with anything
-  that looks like is going to be too much.Looking at the Colossus, while the tour
-  guide explained what went on during those times and the thinking, logic and processes
-  required to decipher messages, I was stunned. I was left thinking how much less
-  involved we are these days and even then, we give up because it looks strange, new
-  or confusing.We have to learn from our past, to be able to understand the future.
+title: "Cybersecurity 101: 10 Steps To Cyber Security And Beyond For Today's World"
+excerpt: "Walking around The National Museum of Computing at Bletchley Park the other
+  day..."
+categories: [blog, IT Security]
+tags: [sample-post, readability]
+modified: 2015-09-17
+image:
+  feature: cyber.jpg
+ 
+comments: true
+share: true
 ---
-<p><img src="{{ site.baseurl }}/assets/img.jpg" alt="" /></p>
+ 
+<p><img src="{{ site.baseurl }}/images/img.jpg" alt="" /></p>
 <p>Walking around The National Museum of Computing at Bletchley Park the other day as part of the <a href="http://www.mkbrf.org/">MKBRF</a> (Milton Keynes Business Resilience Forum), I realised how complacent we have become with the way our life is, that we won't bother with anything that looks like is going to be too much.</p>
 <p>Looking at the <a href="https://en.wikipedia.org/wiki/Colossus_computer">Colossus</a>,&nbsp;while the tour guide explained what went on during those times and the thinking, logic and processes required to decipher messages, I was stunned. I was left thinking how much less involved we are these days and even then, we give up because it looks strange, new or confusing.</p>
 <blockquote><p>We have to learn from our past, to be able to understand the future.</p></blockquote>

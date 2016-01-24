@@ -3,20 +3,14 @@
 - title: Home
   url: /
 
-- title: Articles
-  url: /articles/
+- title: Blog
+  url: /blog/
   
-  - title: Resources
-  url: /Resources/
-
-- title: Cyber Security
-  url: /Cyber Security/
+- title: Resources
+  url: /resources/
 
 - title: About
   url: /about/
-  
-  - title: Ask Me Anything
-  url: /Ask Me Anything/
 
 - title: Search
   url: /search/

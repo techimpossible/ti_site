@@ -2,11 +2,11 @@
 layout: post
 title: "Mr. Robot's Hacking Tools"
 excerpt: There is nothing more exciting than a TV Show that uses actual Security tools
-  as these are used today in real life. I knew there was something different about
-  this show, as soon as I read  Anonymous Content in the credits.Mr. Robot is amazing.
+  as these are used today in real life.
 
-categories: Cyber Security
-
+categories:
+- Cyber Security
+- blog
 tags:
 - Encryption
 - Flexispy
@@ -15,14 +15,13 @@ tags:
 - Protonmail
 - Raspberry Pi
 - Social-Engineer Toolkit
-modified: 2013-06-30
+modified: 2015-09-17
 image:
   feature: mrrobot.jpg
   credit: WeGraphics
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 comments: true
 share: true
-
 ---
 
 

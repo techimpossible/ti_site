@@ -1,12 +1,11 @@
 ---
 layout: post
 title: 10 Signs that we have entered the surveillance Era
-date: 2015-05-01 22:00:33.000000000 +01:00
-type: post
-published: true
-status: publish
+excerpt: "This is a list of evidence that we have entered a new era."
+
 categories:
-- IT
+- papers
+- blog
 tags:
 - 44con
 - big data
@@ -15,19 +14,15 @@ tags:
 - smart cars
 - smart tv
 - surveillance
-meta:
-  _thumbnail_id: '16'
-author:
-  login: itsec
-  email: skaronisp@p3plcpnl0845.prod.phx3.secureserver.net
-  display_name: admin
-  first_name: ''
-  last_name: ''
-excerpt: This is a list of evidence that we have entered a new era.The Surveillance
-  EraSmartphone trackingRFID credit cardsSmart TVsSubscription cloud security systemsSmart
-  carsSmart homesSocial mediaCCTV CamerasShopping online and in storeTravel Cards
+
+image:
+ feature: person-of-interest-5072bf01989d0.jpg
+
+comments: true
+share: true
+
 ---
-<p><img src="{{ site.baseurl }}/assets/person-of-interest-5072bf01989d0.jpg" alt="" /></p>
+<p><img src="{{ site.baseurl }}/images/person-of-interest-5072bf01989d0.jpg" alt="" /></p>
 <p>This is a list of evidence that we have entered a new era.</p>
 <h2>The Surveillance Era</h2>
 <ol>
@@ -71,4 +66,4 @@ excerpt: This is a list of evidence that we have entered a new era.The Surveilla
 </ol>
 <p>Governments like the US can access any of those Data Centres under the Patriot Act and poke around whether you like it or not. A disproportionate amount of the world's data is under US jurisdiction and not many people are aware of this when uploading something to Facebook or iCloud.</p>
 <p>So, next time you access Facebook, Twitter, Gmail, Istagram, Dropbox remember that once something is out there it is out of your control.</p>
-<p>&nbsp;</p></p>
+<p>&nbsp;</p>
