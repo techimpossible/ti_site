@@ -15,7 +15,7 @@ comments: true
 share: true
 
 ---
-<p><img src="{{ site.baseurl }}/assets/own-your-space.png" alt="" /></p>
+<p><img src="{{ site.baseurl }}/images/own-your-space.png" alt="" /></p>
 <h2>The Information Age</h2>
 <p>Nowadays everything is online. We are required to learn new systems and processes, in order to pay our taxes, find a job, socialise and entertain ourselves.</p>
 <p>People that have been around more than 20-30 years have been brought up in a world without the internet. Most things were done by pen and paper and you would also have to show up to places to do everyday activities.</p>
